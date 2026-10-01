@@ -39,10 +39,14 @@ and a FOSS build that works without Google Play Services.
 
 ### AuraMusic — the app
 
-<img src="https://raw.githubusercontent.com/TeamAuraMusic/AuraMusic/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="24%" alt="AuraMusic home" />
-<img src="https://raw.githubusercontent.com/TeamAuraMusic/AuraMusic/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="24%" alt="AuraMusic player" />
-<img src="https://raw.githubusercontent.com/TeamAuraMusic/AuraMusic/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="24%" alt="AuraMusic lyrics" />
-<img src="https://raw.githubusercontent.com/TeamAuraMusic/AuraMusic/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="24%" alt="AuraMusic search" />
+<table>
+<tr>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/TeamAuraMusic/AuraMusic/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" alt="Home" /><br>Home</td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/TeamAuraMusic/AuraMusic/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" alt="Player" /><br>Player</td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/TeamAuraMusic/AuraMusic/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" alt="Lyrics" /><br>Lyrics</td>
+<td width="25%" align="center"><img src="https://raw.githubusercontent.com/TeamAuraMusic/AuraMusic/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" alt="Search" /><br>Search</td>
+</tr>
+</table>
 
 **Playback & streaming**
 - Stream and cache any song or video from YouTube Music, with offline playback and background service
